@@ -1,0 +1,16 @@
+{
+  "name": "assignment5",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "start:dev": "node --watch ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "mysql2": "^3.16.2"
+  }
+}
